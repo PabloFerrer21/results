@@ -1,3 +1,5 @@
 *.dat
 results/*.out
 results/basura
+*.data
+!*.data
