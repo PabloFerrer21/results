@@ -1,3 +1,3 @@
 *.dat
-results/
-!results/importante
+results/*.out
+results/basura
