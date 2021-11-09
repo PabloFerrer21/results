@@ -3,3 +3,4 @@ results/*.out
 results/basura
 *.data
 !*.data
+log_*
